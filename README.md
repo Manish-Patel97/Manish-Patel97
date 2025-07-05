@@ -1,4 +1,3 @@
-![Banner](https://i.imgur.com/qj6V6sR.png)
 
 # 👋 Hi there, I'm Manish Kumar Patel
 
