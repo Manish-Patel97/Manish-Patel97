@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Manish Kumar Patel
 
-I'm a passionate **Front-End Developer** dedicated to crafting responsive, scalable, and visually appealing applications. I love transforming creative ideas into real-world digital products that deliver great user experiences.
+I'm a passionate **Mobile Application Developer** dedicated to crafting responsive, scalable, and visually appealing applications. I love transforming creative ideas into real-world digital products that deliver great user experiences.
 
 ---
 
