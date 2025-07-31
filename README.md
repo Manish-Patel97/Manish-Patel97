@@ -58,8 +58,8 @@ I'm a passionate **Mobile Application Developer** dedicated to crafting responsi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manish475&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish475&layout=compact&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Manish-Patel97&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Patel97&layout=compact&theme=radical" width="48%" />
 
 </div>
 
